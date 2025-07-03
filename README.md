@@ -12,6 +12,11 @@ This paper systematically explores the potential and effectiveness of generative
 - 🤖 GenAI models: Transformer-based diffusion model
 - 🗄️ DNN models: ResNet
 
+## 👣 Procedure
+Step 1: Run Generate_test to convert the CSI data from the dat type to the mat type.
+
+Step 2: Take the converted CSI data as cond and use the transformer-based diffusion model to synthesize new data.
+
 
 ## 🤝 Plan
 We will update the code in the future.
