@@ -1,4 +1,4 @@
-# 🔍 Generative Data Augmentation Framework for Wi-Fi Gesture Recognization
+# 🔍 Generative Data Augmentation for Wi-Fi Gesture Recognization
 
 > 🌟 This repository is the official source code from the paper of 	``Generative AI for Data Augmentation in Wireless Networks: Analysis, Applications, and Case Study.`` Welcome to see our work on arXiv.
 
