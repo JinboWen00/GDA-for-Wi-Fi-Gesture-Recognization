@@ -10,7 +10,7 @@ This paper systematically explores the potential and effectiveness of generative
 ## 🛠️ Technical Stack
 - 📝 Datasets: Widar 3.0
 - 🤖 GenAI models: Transformer-based diffusion model
-- 🗄️ DNN models: ResNets
+- 🗄️ DNN models: ResNet
 
 
 ## 🤝 Plan
